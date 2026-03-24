@@ -1,0 +1,19 @@
+# Core Audio Processing
+librosa==0.11.0
+noisereduce==3.0.3
+soundfile==0.12.1
+scipy==1.15.3
+numpy==2.2.6
+
+# Visualization & Data
+matplotlib==3.7.1
+pandas==2.0.3
+tqdm==4.66.1
+
+# AI & Evaluation
+openai-whisper==20250625
+jiwer==3.0.3
+
+# Jupyter Notebook Environment
+ipykernel==6.25.0
+ipywidgets==8.1.0
