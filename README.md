@@ -1,6 +1,7 @@
 # ISSR Project 01: Team Communication Audio Analysis (GSoC 2026)
 
-This repository contains my technical submission for the ISSR Project 01 test. Having worked with this organization previously, I’ve designed this pipeline specifically to address the unique constraints of the **ISSR driving simulator environment**.
+[!NOTE]
+> This repository contains my technical submission for the ISSR Project 01 test. Having worked with this organization previously, I’ve designed this pipeline specifically to address the unique constraints of the **ISSR driving simulator environment**.
 
 ## Background & Inspiration
 This solution is an evolution of my previous work with the ISSR organization. You can find the summary of my **GSoC 2025** implementation here:
